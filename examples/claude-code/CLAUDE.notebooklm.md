@@ -4,6 +4,9 @@
 Plantilla para usar notebooklm-py desde Claude Code en CUALQUIER proyecto.
 
 Cómo usarla:
+  Forma automática: python notebooklm_sync.py setup --project <ruta> (ver README.md).
+
+  Forma manual:
   1. Copia este archivo a la raíz de tu proyecto renombrándolo a CLAUDE.md
      (o pega la sección "NotebookLM" en tu CLAUDE.md existente).
      Para que aplique a todos tus proyectos, pégala en ~/.claude/CLAUDE.md.
